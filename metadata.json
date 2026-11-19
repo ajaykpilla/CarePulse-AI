@@ -1,0 +1,8 @@
+{
+  "name": "CarePulse AI",
+  "description": "Proactive Healthcare Interoperability & Autonomous Prior Authorization Engine aligned with HL7 FHIR R4 and CMS-0057-F",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
